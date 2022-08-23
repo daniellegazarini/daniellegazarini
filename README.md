@@ -1,7 +1,7 @@
 ### Olá, sou a Danielle Gazarini 
 
 
-- 🌱 Estudando Fundamentos do Desenvolvimento Web na Trybe
+- 🌱 Estudando Desenvolvimento Web na Trybe
 - 😄 Pronomes: ela/dela
 
 <div align="center">
