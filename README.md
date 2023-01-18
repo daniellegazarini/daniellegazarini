@@ -1,7 +1,7 @@
 ### Olá, sou a Danielle Gazarini 
 
 
-- 🌱 Estudando Desenvolvimento Web na Trybe
+- 🌱 Desenvolvedora Fullstack
 - 😄 Pronomes: ela/dela
 
 Iniciei meus estudos na engenharia civil, quando tive os primeiros contatos com o que viria ser minha paixão: tecnologia. Entre uma e outra eu me tornei professora de cálculo, profissão que me apresentou as nuances de lidar com o ser humano, apresentá-lo a novas habilidades e aprender com o ensino. 
